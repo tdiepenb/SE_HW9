@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49f4752a-00c4-4731-a56d-347880b90ea7" name="Changes" comment="pushing something">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Calendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/main/TestCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/main/TestCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/main/TestCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/main/TestCalendar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,15 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.TestFizzBuzz">
     <configuration name="TestCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SE_HW9_Task1" />
@@ -129,6 +123,7 @@
       <updated>1670500895919</updated>
       <workItem from="1670500897708" duration="57000" />
       <workItem from="1670515741700" duration="5020000" />
+      <workItem from="1670667894409" duration="1287000" />
     </task>
     <servers />
   </component>
@@ -151,10 +146,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="pushing something" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SE_HW9_Task1$main_in_SE_HW9_Task1.ic" NAME="main in SE_HW9_Task1 Coverage Results" MODIFIED="1670517019736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/SE_HW9_Task1$TestCalendar.ic" NAME="TestCalendar Coverage Results" MODIFIED="1670516217402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>main.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/SE_HW9_Task1$TestCalendar.ic" NAME="TestCalendar Coverage Results" MODIFIED="1670516217402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/SE_HW9_Task1$main_in_SE_HW9_Task1.ic" NAME="main in SE_HW9_Task1 Coverage Results" MODIFIED="1670517019736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>main.*</FILTER>
     </SUITE>
   </component>

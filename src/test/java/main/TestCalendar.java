@@ -27,14 +27,14 @@ class TestCalendar {
     // Implement test cases for the equivalent partitions
 
     @ParameterizedTest
-    @ValueSource(ints = {1896, 1855, 1600})
+    @ValueSource(ints = {1896, 1855, 1600, 1900})
     void Should_return_false_for_years_below_1900(int year) {
         Calendar calendar = new Calendar(year);
         assertFalse(calendar.isLeapYear());
     }
 
     @ParameterizedTest
-    @ValueSource(ints = {2004, 2005, 2400})
+    @ValueSource(ints = {2004, 2005, 2400, 2100})
     void Should_return_false_for_years_above_2001(int year) {
         Calendar calendar = new Calendar(year);
         assertFalse(calendar.isLeapYear());
